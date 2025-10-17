@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Harsh Gohel
-- 👀 I’m interested in Web Development, PHP Development
-- 🌱 I’m currently learning Web Devlopment
 - 📫 How to reach me harshgohel.official@gmail.com
 
 <!---
